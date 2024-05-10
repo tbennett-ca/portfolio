@@ -1,3 +1,3 @@
 # Portfolio 
 
-[https://tbennett-ca.github.io/portfolio/](Open Porftolio)
+[Open Porftolio](https://tbennett-ca.github.io/portfolio/)
